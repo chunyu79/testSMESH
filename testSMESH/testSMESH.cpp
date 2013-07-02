@@ -112,7 +112,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout<<"Press ANY key to exit."<<endl;
 	getchar();
 
-	cout<<"this is a test on using git"<<endl;
+	
 
 	return 0;
 }
